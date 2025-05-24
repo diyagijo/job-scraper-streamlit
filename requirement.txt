@@ -1,8 +1,9 @@
-pandas==2.2.2
-numpy==1.26.4
-scikit-learn==1.5.1
-joblib==1.4.2
-beautifulsoup4==4.12.3
-schedule==1.2.2
-streamlit==1.39.0
-requests==2.32.3
+pandas
+numpy
+streamlit
+selenium
+beautifulsoup4
+joblib
+schedule
+webdriver-manager
+scikit-learn

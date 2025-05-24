@@ -1,10 +1,9 @@
+streamlit
 pandas
 numpy
-streamlit
+scikit-learn
 selenium
 beautifulsoup4
-joblib
 schedule
+joblib
 webdriver-manager
-scikit-learn
-
